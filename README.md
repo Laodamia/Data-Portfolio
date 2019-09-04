@@ -10,3 +10,6 @@ Projects with Python focus:
 
 Projects with Pandas focus:
 * Star Wars (data cleaning, data analysis)
+* Employees Data (data cleaning, visualisation)
+* College Majors (visualisation, correlations)
+* CIA World Factbook (visualisation)
