@@ -12,4 +12,7 @@ Projects with Pandas focus:
 * Star Wars (data cleaning, data analysis)
 * Employees Data (data cleaning, visualisation)
 * College Majors (visualisation, correlations)
-* CIA World Factbook (visualisation)
+* Ebay car sales (data cleaning, data analysis)
+
+SQL:
+* CIA World Factbook (intro to SQLite)
