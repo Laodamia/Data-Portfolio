@@ -5,13 +5,13 @@ They were designed to practice diffrent skills acquired throughout the course.
 
 ## A breakdown
 Projects with Python focus:
-* Hacker News Data
+* Hacker News Data 
 * App Data
 
 Projects with Pandas focus:
 * Star Wars (data cleaning, data analysis)
 * Employees Data (data cleaning, visualisation)
-* College Majors (visualisation, correlations)
+* [College Majors](../master/Project-146-college-majors-data.ipynb) (visualisation, correlations)
 * Ebay car sales (data cleaning, data analysis)
 
 SQL:
