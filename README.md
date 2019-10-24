@@ -5,8 +5,8 @@ They were designed to practice diffrent skills acquired throughout the course.
 
 ## A breakdown
 Projects with Python focus:
-* [Hacker News Data](master/Project-356-hacker-news-data.ipynb)
-* [App Data](master/Project-350-apps-data.ipynb)
+* [Hacker News Data](../master/Project-356-hacker-news-data.ipynb)
+* [App Data](../master/Project-350-apps-data.ipynb)
 
 Projects with Pandas focus:
 * [Star Wars](../master/Project-201-star_wars-data.ipynb) (data cleaning, data analysis)
@@ -15,4 +15,4 @@ Projects with Pandas focus:
 * [Ebay car sales](../master/Project-294-Ebay-Car-Sales-Data.ipynb) (data cleaning, data analysis)
 
 SQL:
-* [CIA World Factbook](master/Project-257-CIA-World-Factbook.ipynb) (intro to SQLite)
+* [CIA World Factbook](../master/Project-257-CIA-World-Factbook.ipynb) (intro to SQLite)
