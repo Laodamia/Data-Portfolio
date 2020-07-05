@@ -6,7 +6,6 @@ They were designed to practice diffrent skills acquired throughout the course.
 ## A breakdown
 ML projects:
 * [Spam Filter using Naive Bayes](../master/DataQuestProjects/Project-433-Spam-Filter-Naive-Bayes-ML.ipynb)
-* [Song Genres' Classification](../master/DataCampProjects/DataCamp-Song-Genres-Classification-ML.ipynb)
 * [What topics to learn to win Jeopardy](../master/DataQuestProjects/Project-210-Winning-Jeopardy-ML.ipynb)
 * [Best Factors to Reduce Traffic Mortality](../master/DataCampProjects/DataCamp-ReducingTrafficMortality-ML.ipynb)
 * [Classicifaciton of Song Genres based on Song Parameters](../master/DataCampProjects/DataCamp-Song-Genres-Classification-ML.ipynb)
@@ -23,7 +22,7 @@ Analytics projects with Python focus:
 
 Analytics projects with Pandas focus:
 * [Alcohol Consumption Analysis in Ames Iowa](../master/DataCampProjects/DataCamp-AlcoholConsumptionAnalysis-Pandas.ipynb) (data analsis, data visualisation)
-* [Star Wars](../master/Project-201-star_wars-data.ipynb) (data cleaning, data analysis)
+* [Star Wars](../master/DataQuestProjects/Project-201-star_wars-Pandas-Analysis.ipynb) (data cleaning, data analysis)
 * [Employees Data](../master/DataQuestProjects/Project-348-employees-Pandas-Viz.ipynb) (data cleaning, visualisation)
 * [College Majors](../master/DataQuestProjects/Project-146-college-majors-Pandas-Viz.ipynb) (visualisation, correlations)
 * [Ebay car sales](../master/DataQuestProjects/Project-294-Ebay-Car-Sales-Pandas-Analysis.ipynb) (data cleaning, data analysis)
