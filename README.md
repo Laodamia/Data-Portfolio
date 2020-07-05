@@ -5,22 +5,22 @@ They were designed to practice diffrent skills acquired throughout the course.
 
 ## A breakdown
 ML projects:
-* [Spam Filter using Naive Bayes](../master/Project-433-Spam-Filter-with-Naive-Bayes.ipynb)
-* [Song Genres Classification](../master/DataCamp-Song-Genres-Classification-Project/DataCamp-Song-Genres-Classification-Project.ipynb)
-* [Winning Jeopardy](../master/Project-210-Winning-Jeopardy.ipynb)
+* [Spam Filter using Naive Bayes](../master/DataQuestProjects/Project-433-Spam-Filter-Naive-Bayes-ML.ipynb)
+* [Song Genres Classification](../master/DataCampProjects/DataCamp-Song-Genres-Classification-ML.ipynb)
+* [Winning Jeopardy](../master/DataQuestProjects/Project-210-Winning-Jeopardy-ML.ipynb)
 
 Analytics projects with Python focus:
-* [Hacker News Data](../master/Project-356-hacker-news-data.ipynb)
-* [App Data](../master/Project-350-apps-data.ipynb)
+* [Hacker News Data](../master/DataQuestProjects/Project-356-hacker-news-Python.ipynb)
+* [App Data](../master/DataQuestProjects/Project-350-apps-Python.ipynb)
 
 Analytics projects with Pandas focus:
 * [Star Wars](../master/Project-201-star_wars-data.ipynb) (data cleaning, data analysis)
-* [Employees Data](../master/Project-348-employees-data.ipynb) (data cleaning, visualisation)
-* [College Majors](../master/Project-146-college-majors-data.ipynb) (visualisation, correlations)
-* [Ebay car sales](../master/Project-294-Ebay-Car-Sales-Data.ipynb) (data cleaning, data analysis)
-* [Dr. Semmelweis Discovery of Handwashing](../master/DataCamp-Semmelweis-Handwashing-Project/DataCamp-Semmelweis-Handwashing-Project.ipynb)
+* [Employees Data](../master/DataQuestProjects/Project-348-employees-Pandas-Viz.ipynb) (data cleaning, visualisation)
+* [College Majors](../master/DataQuestProjects/Project-146-college-majors-Pandas-Viz.ipynb) (visualisation, correlations)
+* [Ebay car sales](../master/DataQuestProjects/Project-294-Ebay-Car-Sales-Pandas-Analysis.ipynb) (data cleaning, data analysis)
+* [Dr. Semmelweis Discovery of Handwashing](../master/DataCampProjects/DataCamp-Semmelweis-Handwashing-Pandas.ipynb)
 
 SQL:
-* [CIA World Factbook](../master/Project-257-CIA-World-Factbook.ipynb) (intro to SQLite)
+* [CIA World Factbook](../master/DataQuestProjects/Project-257-CIA-World-Factbook-SQL.ipynb) (intro to SQLite)
 
 
