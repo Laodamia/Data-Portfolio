@@ -15,6 +15,7 @@ Those were guided projects (with various degrees of hnd-holding) designed to pra
 **NLP** projects:
 * [Word Frequencies in Moby Dick](../master/DataCampProjects/DataCamp-WordFrequency-Mobydick-NLP.ipynb)
 * [Finding Movie similarities based on descriptions](../master/DataCampProjects/DataCamp-MovieSimilarities-NLP.ipynb)
+* [Trump or Truedeau: Tweet classification](../master/DataCampProjects/DataCamp-TrumpTrudeau-TweetClassification.ipynb)
 
 Data analytics with **Python** focus:
 * [Hacker News Data](../master/DataQuestProjects/Project-356-hacker-news-Python.ipynb)
