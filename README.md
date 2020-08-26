@@ -1,9 +1,13 @@
 # Data-Portfolio
 
-This is a record of all the projects done as a part of the Dataquest and DataCamp courses, Data Science path.
-Those were guided projects (with various degrees of hnd-holding) designed to practice diffrent skills acquired throughout the course. 
+## Personal projects
+* Data Analysis & NLP on 648 days of personal mood data: [Notebook here](../master/LifeTracking/mood_data_analysis.ipynb). Writeup published on [Towards Data Science](https://towardsdatascience.com/is-mango-sticky-rice-correlated-with-productivity-ad925959d858).
 
-## A breakdown
+
+## Guided Projects
+This is a record of all the projects done as a part of the Dataquest and DataCamp courses, Data Science paths.
+Those were guided projects (with various degrees of hand-holding) designed to practice diffrent skills acquired throughout the courses. 
+
 **Machine Lerning** projects:
 * [Spam Filter using Naive Bayes](../master/DataQuestProjects/Project-433-Spam-Filter-Naive-Bayes-ML.ipynb)
 * [What topics to learn to win Jeopardy](../master/DataQuestProjects/Project-210-Winning-Jeopardy-ML.ipynb)
