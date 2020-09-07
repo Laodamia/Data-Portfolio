@@ -26,6 +26,7 @@ Data analytics with **Python** focus:
 * [App Data](../master/DataQuestProjects/Project-350-apps-Python.ipynb)
 
 Data analytics with **Pandas** and **visualization** focus:
+* [Gender Prediction using sound (Fuzzy matching)](../master/DataCampProjects/DataCamp-Gender-Prediction-using-Sound-Pandas-fuzymatching.ipynb)
 * [Alcohol Consumption Analysis in Ames Iowa](../master/DataCampProjects/DataCamp-AlcoholConsumptionAnalysis-Pandas.ipynb) (data analsis, data visualisation)
 * [Star Wars](../master/DataQuestProjects/Project-201-star_wars-Pandas-Analysis.ipynb) (data cleaning, data analysis)
 * [Employees Data](../master/DataQuestProjects/Project-348-employees-Pandas-Viz.ipynb) (data cleaning, visualisation)
