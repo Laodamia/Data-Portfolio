@@ -2,6 +2,12 @@
 
 ## Personal projects
 * Data Analysis & NLP on 648 days of personal mood data: [Notebook here](../master/LifeTracking/mood_data_analysis.ipynb). Writeup published on [Towards Data Science](https://towardsdatascience.com/is-mango-sticky-rice-correlated-with-productivity-ad925959d858).
+* Data Analysis & NLP of 500+ company Tweets: [Notebook here](../master/Twitter-data/JAM-Tweets.ipynb). A series of writeups published on Medium: 
+1. In The Startup: [Does Emoji Use Correlate With Twitter Engagement?](https://medium.com/swlh/%EF%B8%8Fdoes-emoji-use-correlate-with-twitter-engagement-388775467be)
+2. In Towards Data Science: [The Saddest Day on Twitter: Sentiment Analysis & Engagement Trends in Company’s Tweets](https://towardsdatascience.com/the-saddest-day-on-twitter-sentiment-analysis-engagement-trends-in-companys-tweets-1b2f4f2789e1)
+3. In Towards Data Science: [The hashtag to rule them all 👉 Analysis of company tweets](https://towardsdatascience.com/how-i-created-a-monster-function-to-discover-our-brands-twitter-best-friend-556f2c90dbb4)
+4. [😅 How repetitive are you? Using Python to reveal word patterns in tweets.](https://medium.com/@krzem_m/how-repetitive-are-you-using-python-to-reveal-word-patterns-in-tweets-7c6107bb72b)
+
 
 
 ## Guided Projects
